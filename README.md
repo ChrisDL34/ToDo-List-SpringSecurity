@@ -10,5 +10,5 @@ tenemos la opcion de logout
 ![image](https://github.com/ChrisDL34/ToDo-List-SpringSecurity/assets/128629521/b2d6a732-5580-4404-91a0-976d0f1e65bd)
 podemos ingresar con otro usuario
 ![image](https://github.com/ChrisDL34/ToDo-List-SpringSecurity/assets/128629521/3f472959-cd25-493b-9ccd-a5bce0b901e0)
-y este usuario administrara sus propias tareas
+y este usuario administrara sus propias tareas.
 ![image](https://github.com/ChrisDL34/ToDo-List-SpringSecurity/assets/128629521/4c06759a-b775-45e2-959b-6ca16b09f54f)
